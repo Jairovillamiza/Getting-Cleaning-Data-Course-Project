@@ -1,4 +1,4 @@
-Data Introduction
+#Data Introduction
 
 - This project will use six data, which are x_train.txt, x_test.txt, y_train.txt, y_test.txt, subject_train.txt and subject_test.txt, they can all be found inside the downloaded dataset, namely URI HAR Dataset.
 
@@ -9,7 +9,7 @@ Data Introduction
 - The README.txt is the overall desciption about the overall process of how publishers of this dataset did the experiment and got the data result.
 
 
-Course Project Introduction
+#Course Project Introduction
 
 The script run_analysis.R uses the data.table package for renaming column and reading in files. It performs 5 major steps including:
 
@@ -25,7 +25,7 @@ The script run_analysis.R uses the data.table package for renaming column and re
 Write out the tidy dataset to averagedata.txt.
 
 
-Final Tidy Data Description
+#Final Tidy Data Description
 
 The final tidy data is produced inside the run_analysis.R, which I simply named it data3 and data4.
 
