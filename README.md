@@ -9,6 +9,7 @@ The data for this project can be downloaded through the following link: https://
 Full description of the data can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Files
+
 CodeBook.md. describes the variables, the data, and any work that are performed to clean up the data.
 
 run_analysis.R contains all the coding for doing the course project, that includes downloading and unzipping the dataset that is used for this project.
